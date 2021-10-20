@@ -20,6 +20,6 @@
   → Authentificar 
   → Cadastro mensagem
 
-- Socket
+- Uso de Socket
 
   → yarn add socket.io

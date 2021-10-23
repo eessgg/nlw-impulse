@@ -18,8 +18,7 @@ export default function SendMessageForm() {
 
     await api.post('messages', { message })
 
-    setMessage("")
-    
+    setMessage("");  
   }
 
 
